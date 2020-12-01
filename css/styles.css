@@ -12,9 +12,10 @@ body {
 
 #wateringcan {
     width: 200px;
-    position: fixed;
+    position: absolute;
     bottom: 20%;
     left: 40%;
+    z-index:1;
 }
 
 

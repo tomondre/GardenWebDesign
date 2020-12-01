@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d8c911-64b5-453b-9b92-412af09273ec" name="Default Changelist" comment="" />
+    <list default="true" id="27d8c911-64b5-453b-9b92-412af09273ec" name="Default Changelist" comment="we">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l1vvmaEFur8dOL1Qx6CnrTO2k1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +36,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\PC1\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="27d8c911-64b5-453b-9b92-412af09273ec" name="Default Changelist" comment="" />
@@ -26,17 +46,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606777644898</updated>
-      <workItem from="1606777645959" duration="5699000" />
+      <workItem from="1606777645959" duration="5990000" />
+      <workItem from="1606813578373" duration="3954000" />
     </task>
+    <task id="LOCAL-00001" summary="we">
+      <created>1606784187902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606784187902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="we" />
+    <option name="LAST_COMMIT_MESSAGE" value="we" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1606784160213">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1606784160213" />
+    <state x="595" y="315" key="Github.ShareDialog" timestamp="1606814216815">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="595" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1606814216815" />
     <state x="762" y="0" width="781" height="840" key="dock-window-1" timestamp="1606779200100">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="762" y="0" width="781" height="840" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1606779200100" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1606783962980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606783962980" />
+    <state x="599" y="206" width="491" height="628" key="svn.repositoryBrowser" timestamp="1606784170419">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="206" width="491" height="628" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1606784170419" />
+    <state x="551" y="191" key="svn4idea.import.options" timestamp="1606784168608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="551" y="191" key="svn4idea.import.options/0.0.1536.834@0.0.1536.834" timestamp="1606784168608" />
   </component>
 </project>
